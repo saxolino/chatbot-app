@@ -1,4 +1,4 @@
-onst express = require('express');
+const express = require('express');
 const { MongoClient } = require('mongodb');
 const path = require('path');
 const { Configuration, OpenAIApi } = require("openai"); // Importa OpenAI
